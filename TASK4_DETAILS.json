@@ -1,0 +1,101 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0079221/",
+  "name": "Golmaal",
+  "alternateName": "Gol Maal",
+  "image": "https://m.media-amazon.com/images/M/MV5BM2Y3Y2Q5ZDMtZjk4ZC00ODAwLTkwMDMtMjE4NWU2MmEzMWU2XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+  "description": "A man&apos;s simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0079221/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Peter_Young"
+    },
+    "dateCreated": "2011-09-23",
+    "inLanguage": "English",
+    "name": "A classic comedy of errors which has fun, suspense and soul",
+    "reviewBody": "Hrishikesh Mukherjee directs another comedy movie involving simple middle-class people and presents it through their everyday struggle. The entire picture is simple, authentic and fun. The concept of a young guy who would go to any extent to not lose his job is very interesting, and Mukherjee handles it with great success. Gol Maal is a comedy of errors and it&apos;s wonderfully developed and narrated. It&apos;s not a complex story, but it&apos;s not a silly one either, and the simplicity works in its favour. The film benefits from its genuinely lifelike sets and costumes, its script, and its proceedings, which grow from humorous to amusing to suspenseful to hilarious. It gets funnier and funnier as it goes along, as the conflict gets more complicated, the obstacles are doubled, and the irony grows. But the movie also has soul, and that&apos;s one of its high-points. The characters are colourful and memorable, but they also have depth which makes them easy to identify with. The relationships are also very impressively portrayed and it&apos;s nice to see how united families and relatives can be and how they care for each other and help each other in times of need.\n\nGol Maal is very well cast, and for me, there are three actors who totally nail their parts: Amol Palekar, Utpal Dutt and Dina Pathak. Palekar is excellent in the role of a simpleton who is forced to live a double life in order to save his job. He displays the differences between the two roles his character has to play brilliantly, with just subtle change in body language and a few nuances here and there. Dutt is hilarious, skillfully creating a memorable persona of a strict boss with a soft heart. His is the funniest performance in the film. Dina Pathak, one of Hindi cinema&apos;s greatest character actresses, is awesome as she is in all the films I&apos;ve seen her in. She comes across as a vivacious, fun-loving and kind woman and, like Palekar, wonderfully plays her &apos;two&apos; roles. Among the supporting cast, David stands out and is as always likable as the kind uncle. The film also has fantastic music by maestro R.D. Burman. &quot;Aane Wala Pal&quot; is my favourite number, and it is performed to perfection by the great Kishore Kumar. Gol Maal is overall a lighthearted and heartwarming comedy but it has the power to captivate, and it can always provide a fun watch for the entire family.",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 19177,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "1979-04-20",
+  "keywords": "brother sister relationship,reference to pele,employer employee relationship,singer,song",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Gol Maal (1979) Trailer",
+    "embedUrl": "/video/imdb/vi1489026841",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjEyODNlNmMtM2NlZS00MjllLWIyOWMtZWU5ODhkNTBhMjZkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjEyODNlNmMtM2NlZS00MjllLWIyOWMtZWU5ODhkNTBhMjZkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "description": "A man&apos;s simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious."
+  },
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0657505/",
+      "name": "Amol Palekar"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0331727/",
+      "name": "Bindiya Goswami"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0894340/",
+      "name": "Deven Verma"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0611531/",
+      "name": "Hrishikesh Mukherjee"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Organization",
+      "url": "/company/co0044508/"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1171925/",
+      "name": "Sailesh Dey"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0080432/",
+      "name": "Sachin Bhowmick"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0713592/",
+      "name": "Rahi Masoom Reza"
+    }
+  ],
+  "duration": "PT2H24M"
+}
